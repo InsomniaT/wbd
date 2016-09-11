@@ -90,12 +90,12 @@ class Angle():
     def getDegrees(self):
         return self.angle % 360
 
-if __name__ == '__main__':
-    angle1 = Angle()
-    angle2 = Angle()
-    angle1.setDegrees(45.0) 
-    a = angle2.setDegrees(45.1)
-    print a
-    angle1s = angle1.getDegrees()
-    angle2s = angle2.getDegrees()
-    print(angle1s, angle2s)
+# if __name__ == '__main__':
+#     angle1 = Angle()
+#     angle2 = Angle()
+#     angle1.setDegrees(45.0) 
+#     a = angle2.setDegrees(45.1)
+#     print a
+#     angle1s = angle1.getDegrees()
+#     angle2s = angle2.getDegrees()
+#     print(angle1s, angle2s)
