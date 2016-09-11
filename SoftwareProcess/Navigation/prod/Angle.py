@@ -12,7 +12,7 @@ class Angle():
         else:
             degrees = degrees % 360
             degrees = round(degrees, 1)
-            self.angle = degrees                 #####
+            self.angle = degrees                 ##
         return degrees
     
     def setDegreesAndMinutes(self, angleString):
