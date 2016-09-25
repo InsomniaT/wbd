@@ -90,7 +90,8 @@ class Angle():
     def getDegrees(self):
         return self.angle % 360
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
+    isdigit(asd)
 #     angle1 = Angle()
 #     angle2 = Angle()
 #     angle1.setDegrees(45.0) 
