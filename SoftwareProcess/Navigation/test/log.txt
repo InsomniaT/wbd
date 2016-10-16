@@ -1,0 +1,1171 @@
+LOG:2016-10-16 16:26:39-06:00  Start of logLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Hight_Miss.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Hight_Miss.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Hight_Miss.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Hight_MissValue.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Hight_MissValue.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Hight_MissValue.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Temp_Missing.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Temp_Missing.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Temp_Missing.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Temp_MissingValue.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Temp_MissingValue.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Temp_MissingValue.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Pressure_Missing.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Pressure_Missing.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Pressure_Missing.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Pressure_MissingValue.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Horizon_Missing.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Horizon_Missing.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Horizon_Missing.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Horizon_MissingValue.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_NoDegree.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_NoDegree.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_RootIsNotFix.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_RootIsNotFix.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_DegreeFloat.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_NoMinute.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_NoMinute.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Hight_NotNumric.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Hight_NotNumric.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_MissBody.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_MissBody.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Temp_NotInt.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Temp_NotInt.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Pressure_NotInt.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Pressure_NotInt.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Horizon_NotArtificial.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_MissDate.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_MissDate.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Date_FalseFormat.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Date_FalseFormat.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_MissTime.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_MissTime.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Time_FalseFormat.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Time_FalseFormat.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_MissObservation.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_MissObservation.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_NoD.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_NoD.xmlLOG:2016-10-16 16:26:39-06:00  Start of log
+LOG:2016-10-16 16:26:39-06:00  Start of sighting file sighting_Observation_MultipleD.xml
+LOG:2016-10-16 16:26:39-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:26:39-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:26:39-06:00  End of sighting sighting_Observation_MultipleD.xmlLOG:2016-10-16 16:29:57-06:00  Start of log
+LOG:2016-10-16 16:29:57-06:00  Start of log
+LOG:2016-10-16 16:29:57-06:00  Start of log
+LOG:2016-10-16 16:29:57-06:00  Start of log
+LOG:2016-10-16 16:29:57-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:29:58-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sightingFile.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Hight_Miss.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Hight_Miss.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Hight_Miss.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Hight_MissValue.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Hight_MissValue.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Hight_MissValue.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Temp_Missing.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Temp_Missing.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Temp_Missing.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Temp_MissingValue.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Temp_MissingValue.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Temp_MissingValue.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Pressure_Missing.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Pressure_Missing.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Pressure_Missing.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Pressure_MissingValue.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Horizon_Missing.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Horizon_Missing.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Horizon_Missing.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Horizon_MissingValue.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_NoDegree.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_NoDegree.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_RootIsNotFix.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_RootIsNotFix.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_DegreeFloat.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_NoMinute.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_NoMinute.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Hight_NotNumric.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Hight_NotNumric.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_MissBody.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_MissBody.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Temp_NotInt.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Temp_NotInt.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Pressure_NotInt.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Pressure_NotInt.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Horizon_NotArtificial.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_MissDate.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_MissDate.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Date_FalseFormat.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Date_FalseFormat.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_MissTime.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_MissTime.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Time_FalseFormat.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Time_FalseFormat.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_MissObservation.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_MissObservation.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_NoD.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_NoD.xmlLOG:2016-10-16 16:31:43-06:00  Start of log
+LOG:2016-10-16 16:31:43-06:00  Start of sighting file sighting_Observation_MultipleD.xml
+LOG:2016-10-16 16:31:43-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:31:43-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:31:43-06:00  End of sighting sighting_Observation_MultipleD.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sightingFile.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Hight_Miss.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Hight_Miss.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Hight_Miss.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Hight_MissValue.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Hight_MissValue.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Hight_MissValue.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Temp_Missing.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Temp_Missing.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Temp_Missing.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Temp_MissingValue.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Temp_MissingValue.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Temp_MissingValue.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Pressure_Missing.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Pressure_Missing.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Pressure_Missing.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Pressure_MissingValue.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Horizon_Missing.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Horizon_Missing.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Horizon_Missing.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Horizon_MissingValue.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_NoDegree.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_NoDegree.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_RootIsNotFix.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_RootIsNotFix.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_DegreeFloat.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_NoMinute.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_NoMinute.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Hight_NotNumric.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Hight_NotNumric.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_MissBody.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_MissBody.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Temp_NotInt.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Temp_NotInt.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Pressure_NotInt.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Pressure_NotInt.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Horizon_NotArtificial.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_MissDate.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_MissDate.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Date_FalseFormat.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Date_FalseFormat.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_MissTime.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_MissTime.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Time_FalseFormat.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Time_FalseFormat.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_MissObservation.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_MissObservation.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_NoD.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_NoD.xmlLOG:2016-10-16 16:49:58-06:00  Start of log
+LOG:2016-10-16 16:49:58-06:00  Start of sighting file sighting_Observation_MultipleD.xml
+LOG:2016-10-16 16:49:58-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:49:58-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:49:58-06:00  End of sighting sighting_Observation_MultipleD.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sightingFile.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Hight_Miss.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Hight_Miss.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Hight_Miss.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Hight_MissValue.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Hight_MissValue.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Hight_MissValue.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Temp_Missing.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Temp_Missing.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Temp_Missing.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Temp_MissingValue.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Temp_MissingValue.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Temp_MissingValue.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Pressure_Missing.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Pressure_Missing.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Pressure_Missing.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Pressure_MissingValue.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Horizon_Missing.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Horizon_Missing.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Horizon_Missing.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Horizon_MissingValue.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_NoDegree.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_NoDegree.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_RootIsNotFix.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_RootIsNotFix.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_DegreeFloat.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_NoMinute.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_NoMinute.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Hight_NotNumric.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Hight_NotNumric.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_MissBody.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_MissBody.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Temp_NotInt.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Temp_NotInt.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Pressure_NotInt.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Pressure_NotInt.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Horizon_NotArtificial.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_MissDate.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_MissDate.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Date_FalseFormat.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Date_FalseFormat.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_MissTime.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_MissTime.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Time_FalseFormat.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Time_FalseFormat.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_MissObservation.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_MissObservation.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_NoD.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_NoD.xmlLOG:2016-10-16 16:59:42-06:00  Start of log
+LOG:2016-10-16 16:59:42-06:00  Start of sighting file sighting_Observation_MultipleD.xml
+LOG:2016-10-16 16:59:42-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 16:59:42-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 16:59:42-06:00  End of sighting sighting_Observation_MultipleD.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sightingFile.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Hight_Miss.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Hight_Miss.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Hight_Miss.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Hight_MissValue.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Hight_MissValue.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Hight_MissValue.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Temp_Missing.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Temp_Missing.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Temp_Missing.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Temp_MissingValue.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Temp_MissingValue.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Temp_MissingValue.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Pressure_Missing.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Pressure_Missing.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Pressure_Missing.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Pressure_MissingValue.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Horizon_Missing.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Horizon_Missing.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Horizon_Missing.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Horizon_MissingValue.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_NoDegree.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_NoDegree.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_RootIsNotFix.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_RootIsNotFix.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_DegreeFloat.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_NoMinute.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_NoMinute.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Hight_NotNumric.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Hight_NotNumric.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_MissBody.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_MissBody.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Temp_NotInt.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Temp_NotInt.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Pressure_NotInt.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Pressure_NotInt.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Horizon_NotArtificial.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_MissDate.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_MissDate.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Date_FalseFormat.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Date_FalseFormat.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_MissTime.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_MissTime.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Time_FalseFormat.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Time_FalseFormat.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_MissObservation.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_MissObservation.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_NoD.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_NoD.xmlLOG:2016-10-16 17:01:34-06:00  Start of log
+LOG:2016-10-16 17:01:34-06:00  Start of sighting file sighting_Observation_MultipleD.xml
+LOG:2016-10-16 17:01:34-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:01:34-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:01:34-06:00  End of sighting sighting_Observation_MultipleD.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sightingFile.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Hight_Miss.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Hight_Miss.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Hight_Miss.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Hight_MissValue.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Hight_MissValue.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Hight_MissValue.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Temp_Missing.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Temp_Missing.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Temp_Missing.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Temp_MissingValue.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Temp_MissingValue.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Temp_MissingValue.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Pressure_Missing.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Pressure_Missing.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Pressure_Missing.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Pressure_MissingValue.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Horizon_Missing.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Horizon_Missing.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Horizon_Missing.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Horizon_MissingValue.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_NoDegree.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_NoDegree.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_RootIsNotFix.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_RootIsNotFix.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_DegreeFloat.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_NoMinute.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_NoMinute.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Hight_NotNumric.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Hight_NotNumric.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_MissBody.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_MissBody.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Temp_NotInt.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Temp_NotInt.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Pressure_NotInt.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Pressure_NotInt.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Horizon_NotArtificial.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_MissDate.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_MissDate.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Date_FalseFormat.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Date_FalseFormat.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_MissTime.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_MissTime.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Time_FalseFormat.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Time_FalseFormat.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_MissObservation.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_MissObservation.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_NoD.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_NoD.xmlLOG:2016-10-16 17:02:30-06:00  Start of log
+LOG:2016-10-16 17:02:30-06:00  Start of sighting file sighting_Observation_MultipleD.xml
+LOG:2016-10-16 17:02:30-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:02:30-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:02:30-06:00  End of sighting sighting_Observation_MultipleD.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sightingFile.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Hight_Miss.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Hight_MissValue.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Temp_Missing.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Temp_MissingValue.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Pressure_Missing.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Pressure_MissingValue.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Horizon_Missing.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Horizon_MissingValue.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_NoDegree.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_RootIsNotFix.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_NoMinute.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Hight_NotNumric.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_MissBody.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Temp_NotInt.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Pressure_NotInt.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_MissDate.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Date_FalseFormat.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_MissTime.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Time_FalseFormat.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_MissObservation.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_NoD.xmlLOG:2016-10-16 17:05:52-06:00  Start of log
+LOG:2016-10-16 17:05:52-06:00  Start of sighting file sighting_Observation_MultipleD.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sightingFile.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Hight_Miss.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d14.3
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Hight_Miss.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d14.3
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Hight_Miss.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Hight_MissValue.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d14.3
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Hight_MissValue.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d14.3
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Hight_MissValue.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Temp_Missing.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Temp_Missing.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Temp_Missing.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Temp_MissingValue.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Temp_MissingValue.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Temp_MissingValue.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Pressure_Missing.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Pressure_Missing.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Pressure_Missing.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Pressure_MissingValue.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Horizon_Missing.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	14d-0.9
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Horizon_Missing.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	14d-0.9
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Horizon_Missing.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	14d-0.9
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 17:07:28-06:00  Aldebaran	2016-03-01	23:40:01	14d-0.9
+LOG:2016-10-16 17:07:28-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 17:07:28-06:00  End of sighting sighting_Horizon_MissingValue.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_NoDegree.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_RootIsNotFix.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_NoMinute.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Hight_NotNumric.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_MissBody.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Temp_NotInt.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Pressure_NotInt.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_MissDate.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Date_FalseFormat.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_MissTime.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Time_FalseFormat.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_MissObservation.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_NoD.xmlLOG:2016-10-16 17:07:28-06:00  Start of log
+LOG:2016-10-16 17:07:28-06:00  Start of sighting file sighting_Observation_MultipleD.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sightingFile.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Hight_Miss.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d14.3
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Hight_Miss.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d14.3
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Hight_Miss.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Hight_MissValue.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d14.3
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Hight_MissValue.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d14.3
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Hight_MissValue.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Temp_Missing.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Temp_Missing.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Temp_Missing.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Temp_MissingValue.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Temp_MissingValue.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Temp_MissingValue.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Pressure_Missing.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Pressure_Missing.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Pressure_Missing.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Pressure_MissingValue.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	15d1.5
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Pressure_MissingValue.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Horizon_Missing.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	14d-0.9
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Horizon_Missing.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	14d-0.9
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Horizon_Missing.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	14d-0.9
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Horizon_MissingValue.xml
+LOG:2016-10-16 18:03:01-06:00  Aldebaran	2016-03-01	23:40:01	14d-0.9
+LOG:2016-10-16 18:03:01-06:00  Peacock	2016-03-02	00:05:05	45d11.9
+LOG:2016-10-16 18:03:01-06:00  End of sighting sighting_Horizon_MissingValue.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_NoDegree.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_RootIsNotFix.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_DegreeBoundaryLeft.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_DegreeBoundaryRight.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_DegreeFloat.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_NoMinute.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_MinuteBoundaryLeft.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_MinuteBoundaryRight.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Hight_NotNumric.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_MissBody.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Temp_NotInt.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Pressure_NotInt.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Pressure_BoundaryLeft.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Pressure_BoundaryRight.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Horizon_NotArtificial.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_MissDate.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Date_FalseFormat.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_MissTime.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Time_FalseFormat.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_MissObservation.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_NoD.xmlLOG:2016-10-16 18:03:01-06:00  Start of log
+LOG:2016-10-16 18:03:01-06:00  Start of sighting file sighting_Observation_MultipleD.xml
