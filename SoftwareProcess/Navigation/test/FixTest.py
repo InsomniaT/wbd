@@ -11,21 +11,23 @@ from cookielib import MISSING_FILENAME_TEXT
 class FixTest(unittest.TestCase):
     def setUp(self):
         self.className = "Fix."
-    #===========================================================================
+
+
+
     # Acceptance Test: 100
     #     Analysis - Constructor
-    #         inputs
-    #             logFile
-    #         outputs
-    #             instance of Fix
-    #         state change
-    #             Start of log
-    #         Happy path
-    #             create log.txt
-    #         Sad path
+    #         inputs: logFile
+    #             
+    #         outputs: instance of Fix
+    #             
+    #         state change: Start of log
+    #             
+    #         Happy path: create log.txt
+    #             
+    #         Sad path:
     #             invalid file name
     #             cannot create new file or be appended
-    #===========================================================================
+ 
 
 
     def test100_010_ShouldCreateInstanceofFix(self):
@@ -53,23 +55,23 @@ class FixTest(unittest.TestCase):
             aF = Fix.Fix("")
         self.assertEquals(expectedDiag, context.exception.args[0][0:len(expectedDiag)])
 
-#===============================================================================
+
 #     Acceptance Test: 200
 #         Analysis - setSightingFile(sightingFile)
-#            inputs
-#                     sightingFile
+#            inputs:
+#                     sightingFile:
 #                         sightingFile contains ".xml" as the file extension  
 #                         length of the file name should be .GE.1
-#             outputs
+#             outputs:
 #                     A string having the value passed as the "sightingFile"
-#             state change
+#             state change:
 #                     Writes the following entry to the log file:
 #                     Start of sighting file f.xml
 #                     where f.xml is the actual name of the file
 # 
-#             Happy path
+#             Happy path:
 #                     write "start of sighting file" in log.txt
-#             Sad path
+#             Sad path:
 #                     missing para:    setSighting()
 #                     non-string filename:    setSightingFile(123.xml)
 #                     small filename:    setSightingFile(".xml")
@@ -77,7 +79,7 @@ class FixTest(unittest.TestCase):
 #                     non-integer x:  setDegreesAndMinutes("1.1d0.0")
 #                     file failed:    
 #                     can't write; append;  
-#===============================================================================
+
     def test200_010_ShouldReturnString(self):
         aF = Fix.Fix()
         sightingFile = "sightingFile.xml"
@@ -124,7 +126,7 @@ class FixTest(unittest.TestCase):
             aF.setSightingFile("test")
         self.assertEquals(expectedDiag, context.exception.args[0][0:len(expectedDiag)])
     
-    #===========================================================================
+  
     # AcceptTest 300
     #     Analysis - getSightings()
     #     input: 
@@ -190,8 +192,8 @@ class FixTest(unittest.TestCase):
     #                 pressure is not int:    sighting_Pressure_NotInt.xml
     #             Tag-Horizon:    Artificial or Nature    
     #                 horizon not (artificial and nature): sighting_Horizon_NotArtificial.xml
-    #===========================================================================
-    #def test300_010ShouldRetureTuples(self):
+
+
 
     def test300_030_ShouldReturnMissHeightTag(self):
         aF = Fix.Fix()
