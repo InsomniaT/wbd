@@ -249,8 +249,6 @@ class FixTest(unittest.TestCase):
             aF.setSightingFile("sighting_MissBody.xml")
             aF.getSightings()
         self.assertEquals(expectedDiag, context.exception.args[0][0:len(expectedDiag)])
-    def test300_930_ShouldRaiseValueErrorForWrongBodyType(self):
-        pass
     def test300_940_ShouldRaiseValueErrorForMissDate(self):
         expectedDiag = self.className + "getSightings:"
         with self.assertRaises(ValueError) as context:

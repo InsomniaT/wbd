@@ -1,71 +1,118 @@
 from math import degrees
 from _socket import setdefaulttimeout
-
+import re
 
 class Angle():
     def __init__(self):
         self.angle = 0.0
         
     def setDegrees(self, degrees = 0.0):
-        if (isinstance(degrees, float) or isinstance(degrees, int)) == False:
-            raise ValueError ('"degrees" violates the parameter specifications')
+        if(not isinstance(degrees, int) and not isinstance(degrees, float)):
+            raise ValueError('Angle.setDegrees: degrees violates the parameter specifications')
         else:
-            degrees = degrees % 360
-            degrees = round(degrees, 1)
-            self.angle = degrees                 
-        return degrees
+              
+            self.angle = float(degrees) % 360
+            degree = int(self.angle)
+            minute = round((self.angle - degree) * 60, 1)
+            self.angle = degree + minute / 60.0
+        return self.angle
     
     def setDegreesAndMinutes(self, angleString):
-        if "" == angleString:
-            raise ValueError('null string')
-        result = angleString.split("d")
-        if not "d" in angleString:
-            raise ValueError ('missing separator')
-        if (result[0] == "" or result[1] == ""):
-            raise ValueError ('missing value')
-        if "." in result[0]:
-            raise ValueError ('degrees must be an integer')
-        try:
-            result = map(float, result)
-            
-        except:
-            raise ValueError ('violates the parameter specifications')
-
+        if not angleString.strip():     #check if the parameter is an empty string
+            raise ValueError ("Angle.setDegreesAndMinutes:    the parameter is an empty string")
+        if angleString.find("d") == -1:     #check if the string contains the separator
+            raise ValueError("Angle.setDegreesAndMinutes:    the parameter doesn't contain the required separator")
+        angList = angleString.split('d',1) #separate the string by "d"
+        degree = angList[0]
+        minute = angList[1]
+        if not degree.strip():      #check if the first part is empty      
+            raise ValueError ("Angle.setDegreesAndMinutes:    should contain degree")
+        degreeStd = re.match("[+-]?\d+\Z",degree)     #regular expression for degree.
+        if degreeStd:
+            degree = int(degreeStd.group(0)) 
         else:
-            if result[1] < 0:
-                raise ValueError ('minutes must be positive')
-            if (len(str(result[1] - int(result[1]))) > 3):
-                raise ValueError('minutes must have only one decimal place')
-            if result[0] < 0:
-                result[1] = - result[1]
-            else:
-                self.angle = (result[0] + result[1] / 60) % 360
-            return self.angle
+            raise ValueError("Angle.setDegreesAndMinutes:    the format of degree is invalid")
+        minuteStd = re.match("\d+\.?\d?\Z",minute)  #regular expression for minute.
+        if minuteStd:
+            minute = minuteStd.group(0)
+            if minute.find(".") > 0:
+                minute = float(minute)
+        else:
+            raise ValueError("Angle.setDegreesAndMinutes:    the format of minute is invalid")
+        minute = float(minute) /  60
+        if degree >= 0:
+            degree = (degree + minute) % 360
+        elif degree < 0:
+            degree = (degree - minute) % 360        
+        self.angle = degree
+        return self.angle
+#         if "" == angleString:
+#             raise ValueError('Angle.setDegreesAndMinutes: null string')
+#         result = angleString.split("d")
+#         if not "d" in angleString:
+#             raise ValueError ('Angle.setDegreesAndMinutes: missing separator')
+#         if (result[0] == "" or result[1] == ""):
+#             raise ValueError ('Angle.setDegreesAndMinutes: missing value')
+#         if "." in result[0]:
+#             raise ValueError ('Angle.setDegreesAndMinutes: degrees must be an integer')
+#         try:
+#             result = map(float, result)
+#             
+#         except:
+#             raise ValueError ('Angle.setDegreesAndMinutes: violates the parameter specifications')
+# 
+#         else:
+#             if result[1] < 0:
+#                 raise ValueError ('Angle.setDegreesAndMinutes: minutes must be positive')
+#             if (len(str(result[1] - int(result[1]))) > 3):
+#                 raise ValueError('Angle.setDegreesAndMinutes: minutes must have only one decimal place')
+# #             if result[0] < 0:
+# #                 result[1] = - result[1]
+# #             else:
+# #                 self.angle = (result[0] + result[1] / 60) % 360
+# #             return self.angle
+#             if result[0] > 0:
+#                 self.angle = (result[0] + result[1] / 60) %360
+#             else:
+#                 self.angle = 
         
     def add(self, angle = None):
+        if angle == None:
+            raise ValueError('Angle.add: missing angle value')
         if isinstance(angle, Angle) == False:
-            raise ValueError('"angle" is not a valid instance')
+            raise ValueError('Angle.add: "angle" is not a valid instance')
         else:
             self.angle = (self.angle + angle.angle) % 360
             return self.angle
         
     def subtract(self, angle = None):
+        if angle == None:
+            raise ValueError('Angle.subtract: missing angle value')
         if isinstance(angle, Angle) == False:
-            raise ValueError('"angle" is not a valid instance')
+            raise ValueError('Angle.subtract: "angle" is not a valid instance')
         else:
             self.angle = (self.angle - angle.angle) % 360
             return self.angle
     
     def compare(self, angle = None):
-        if isinstance(angle, Angle) == False:
-            raise ValueError('"angle" is not a valid instance')
+        if angle == None:
+            raise ValueError("Angle.compare:  angle should not be empty")
+        if not isinstance(angle, Angle):
+            raise ValueError("Angle.compare:  the parameter is not an instance of Angle")
+        if not (isinstance(angle.angle,int)) and not (isinstance(angle.angle, float)) and not (isinstance(angle.angle, str)):
+            raise ValueError("Angle.compare:    the parameter should be a numeric value")
+        ComparatorAngle = Angle()
+        if (isinstance(angle.angle,int)) or (isinstance(angle.angle, float)):
+            ComparatorAngle.setDegrees(angle.angle)
         else:
-            if angle > self.angle:
-                return 1
-            if angle == self.angle:
-                return 0
-            if angle < self.angle:
-                return -1
+            ComparatorAngle.setDegreesAndMinutes(angle)
+        ComparatorAngleDegrees = ComparatorAngle.getDegrees()
+        if (self.angle == ComparatorAngleDegrees):
+            return 0
+        elif(self.angle > ComparatorAngleDegrees):
+            return 1
+        else:
+            return -1
     
     def getString(self):
         degrees = int(self.angle) % 360
@@ -75,15 +122,3 @@ class Angle():
         
     def getDegrees(self):
         return self.angle % 360
-
-# if __name__ == '__main__':
-#     isdigit(asd)
-#     angle1 = Angle()
-#     angle2 = Angle()
-#     angle1.setDegrees(45.0) 
-#     a = angle2.setDegrees(45.1)
-#     print a
-#     angle1s = angle1.getDegrees()
-#     angle2s = angle2.getDegrees()
-#     print(angle1s, angle2s)
-
