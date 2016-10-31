@@ -1,0 +1,91 @@
+LOG:2016-10-30 20:47:18-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:47:18-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:50:14-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:50:14-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:50:14-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:50:14-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:51:14-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:51:14-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:51:14-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:51:14-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:52:20-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:52:20-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:52:20-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:52:20-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:52:20-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:52:20-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:52:20-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:52:20-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:53:20-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:53:20-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:53:20-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:53:20-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:53:20-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:53:20-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:53:20-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:53:20-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:54:36-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:54:36-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:54:36-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:54:36-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:54:36-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:54:36-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:54:36-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:54:36-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:56:05-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:56:05-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:56:05-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:56:05-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:56:05-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:56:05-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:56:05-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:56:05-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:57:42-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:57:42-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:57:42-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:57:42-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:57:42-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:57:42-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:57:42-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:57:42-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:59:43-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:59:43-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:59:43-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:59:43-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 20:59:43-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 20:59:43-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 20:59:43-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 20:59:43-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 21:01:15-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 21:01:15-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 21:01:15-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 21:01:15-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 21:01:16-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 21:01:16-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 21:01:16-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 21:01:16-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 21:13:42-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 21:13:42-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 21:13:42-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 21:13:42-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 21:13:42-06:00  Sirius	2017-04-17	09:30:30	45d11.9	-16d44.5	247d6.2
+LOG:2016-10-30 21:13:42-06:00  Sighting errors:	2
+LOG:2016-10-30 21:13:42-06:00  End of sighting file:	sightingFile.xml
+LOG:2016-10-30 21:13:50-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:2016-10-30 21:13:50-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:2016-10-30 21:13:50-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:2016-10-30 21:13:50-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:2016-10-30 21:13:50-06:00  Sirius	2017-04-17	09:30:30	45d11.9	-16d44.5	247d6.2
+LOG:2016-10-30 21:13:50-06:00  Sighting errors:	2
+LOG:2016-10-30 21:13:50-06:00  End of sighting file:	sightingFile.xml
+LOG:	2016-10-30 21:18:08-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\logfile.txt
+LOG:	2016-10-30 21:18:08-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\sightings.xml
+LOG:	2016-10-30 21:18:08-06:00  star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\star.txt
+LOG:	2016-10-30 21:18:08-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\aries.txt
+LOG:	2016-10-30 21:18:08-06:00  Sirius	2017-04-17	09:30:30	45d11.9	-16d44.5	247d6.2
+LOG:	2016-10-30 21:18:08-06:00  Sighting errors:	2
+LOG:	2016-10-30 21:18:08-06:00  End of sighting file:	sightingFile.xml
+LOG:	2016-10-30 22:20:40-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\log.txt
+LOG:	2016-10-30 22:20:40-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\log.txt
+LOG:	2016-10-30 22:20:43-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\log.txt
+LOG:	2016-10-30 22:20:43-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\prod\log.txt

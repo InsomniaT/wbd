@@ -46,36 +46,6 @@ class Angle():
             degree = (degree - minute) % 360        
         self.angle = degree
         return self.angle
-#         if "" == angleString:
-#             raise ValueError('Angle.setDegreesAndMinutes: null string')
-#         result = angleString.split("d")
-#         if not "d" in angleString:
-#             raise ValueError ('Angle.setDegreesAndMinutes: missing separator')
-#         if (result[0] == "" or result[1] == ""):
-#             raise ValueError ('Angle.setDegreesAndMinutes: missing value')
-#         if "." in result[0]:
-#             raise ValueError ('Angle.setDegreesAndMinutes: degrees must be an integer')
-#         try:
-#             result = map(float, result)
-#             
-#         except:
-#             raise ValueError ('Angle.setDegreesAndMinutes: violates the parameter specifications')
-# 
-#         else:
-#             if result[1] < 0:
-#                 raise ValueError ('Angle.setDegreesAndMinutes: minutes must be positive')
-#             if (len(str(result[1] - int(result[1]))) > 3):
-#                 raise ValueError('Angle.setDegreesAndMinutes: minutes must have only one decimal place')
-# #             if result[0] < 0:
-# #                 result[1] = - result[1]
-# #             else:
-# #                 self.angle = (result[0] + result[1] / 60) % 360
-# #             return self.angle
-#             if result[0] > 0:
-#                 self.angle = (result[0] + result[1] / 60) %360
-#             else:
-#                 self.angle = 
-        
     def add(self, angle = None):
         if angle == None:
             raise ValueError('Angle.add: missing angle value')
