@@ -1,0 +1,4 @@
+LOG:	2016-12-02 20:47:59-06:00  Log file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\test\log593701206d24.txt
+LOG:	2016-12-02 20:47:59-06:00  Sighting file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\test\TestCA052.xml
+LOG:	2016-12-02 20:47:59-06:00  Aries file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\test\CA03_Valid_Aries.txt
+LOG:	2016-12-02 20:47:59-06:00  Star file:	C:\git\SoftwareProcess\SoftwareProcess\Navigation\test\CA03_Valid_Stars.txt

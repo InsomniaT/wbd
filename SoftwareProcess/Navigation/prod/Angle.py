@@ -87,6 +87,10 @@ class Angle():
     def getString(self):
         degrees = int(self.angle) % 360
         minutes = round(((self.angle - int(self.angle)) * 60), 1)
+        if minutes < 10:
+            minutes = '0' + str(minutes)
+        else:
+            minutes = str(minutes)
         string = str(degrees) + 'd' + str(minutes)
         return string
         
